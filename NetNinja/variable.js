@@ -1,0 +1,4 @@
+> var myVariableAmy;
+< undefined
+myVariableAmy 
+
